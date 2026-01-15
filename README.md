@@ -1,2 +1,2 @@
 # CaM-VLA
-Morphological semantic guided vision–language alignment for cervical cell image classification.
+Class-aware Morphological Vision–Language Alignment for Cervical Cell Image Classification.
