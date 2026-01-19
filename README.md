@@ -15,7 +15,6 @@ cd mgca/models/CAM_VLA
 CUDA_VISIBLE_DEVICES=0,1 python mgca_module_semantic_vf_structured.py --gpus 2 --strategy ddp
 ```
 ### Requirements
-### Requirements
 * Python 3.9
 * PyTorch 2.6+
 * **pytorch-lightning==1.9.5** 
